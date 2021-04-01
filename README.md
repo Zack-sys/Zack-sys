@@ -14,3 +14,4 @@
   <a href="https://github.com/Zack-sys" target="_blank"><img src="https://img.shields.io/badge/Github-Zack--sys-green?style=for-the-badge&logo=github"></a>
   <a href="https://www.instagram.com/Azealtech" target="_blank"><img src="https://img.shields.io/badge/IG-%40Azealtech-red?style=for-the-badge&logo=instagram"></a>
   
+<a href="https://github.com/Zack-sys"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Zack-sys&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
