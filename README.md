@@ -1,4 +1,4 @@
-<h3><b><i> Hello I am Azeal Tech👋
+<h3><b><i> Hello I am Azeal Tech👋 </i></b></h3>
 
 - 🔭 I’m currently working on termux
 - 🌱 I’m currently learning github
