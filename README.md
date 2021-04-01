@@ -1,3 +1,10 @@
+<!-- Github README -->
+<p align="center"><a href="https://github.com/Zack-sys">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zack-sys&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
+&nbsp;&nbsp;&nbsp;
+
+
+
 <h3><b><i> Hello I am Azeal Tech👋 </i></b></h3>
 
 - 🔭 I’m currently working on termux
@@ -17,8 +24,5 @@
   <a href="https://github.com/Zack-sys" target="_blank"><img src="https://img.shields.io/badge/Github-Zack--sys-green?style=for-the-badge&logo=github"></a>
   <a href="https://www.instagram.com/Azealtech" target="_blank"><img src="https://img.shields.io/badge/IG-%40Azealtech-red?style=for-the-badge&logo=instagram"></a>
   
-<!-- Github README -->
-<p align="center"><a href="https://github.com/Zack-sys">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zack-sys&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
-&nbsp;&nbsp;&nbsp;
+
 
