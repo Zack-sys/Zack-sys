@@ -21,7 +21,4 @@
   <a href="https://github.com/Zack-sys" target="_blank"><img src="https://img.shields.io/badge/Github-Zack--sys-green?style=for-the-badge&logo=github"></a>
   <a href="https://www.instagram.com/Azealtech" target="_blank"><img src="https://img.shields.io/badge/IG-%40Azealtech-red?style=for-the-badge&logo=instagram"></a>
   
-<h3><b><i>🏆 Profile Statistics :</i></b></h3>
-<a href="https://github.com/Zack-sys"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=Zack-sys&color=blueviolet&style=flat-square"></a>
-
 
