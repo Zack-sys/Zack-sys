@@ -21,4 +21,4 @@
   <a href="https://github.com/Zack-sys" target="_blank"><img src="https://img.shields.io/badge/Github-Zack--sys-green?style=for-the-badge&logo=github"></a>
   <a href="https://www.instagram.com/Azealtech" target="_blank"><img src="https://img.shields.io/badge/IG-%40Azealtech-red?style=for-the-badge&logo=instagram"></a>
   
-<p align="center"> Logo-2K+:A Large-Scale Logo Dataset for Scalable Logo Classiﬁcation </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zack-sys&theme=dracula&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
