@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+<!-- Github README -->
+<p align="center"><a href="https://github.com/Zack-sys">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zack-sys&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
+&nbsp;&nbsp;&nbsp;
+<h3><b><i> Hello I am Azeal Tech👋 </i></b></h3>
 
-You can use the [editor on GitHub](https://github.com/Zack-sys/Zack-sys/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+- 🔭 I’m currently working on termux
+- 🌱 I’m currently learning github
+- 👯 I’m looking to collaborate on youtube
+- 🤔 I’m looking for help with VelocityX documentation
+- 💬 Ask me about script hacking commands in termux
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I am just a high school student
+-->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
 
-### Markdown
+[![trophy](https://github-profile-trophy.vercel.app/?username=Zack-sys&theme=dracula&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h3><b><i>📡 How to reach me :</i></b></h3>
+<p align="left">
+  <a href="https://github.com/Zack-sys" target="_blank"><img src="https://img.shields.io/badge/Github-Zack--sys-green?style=for-the-badge&logo=github"></a>
+  <a href="https://www.instagram.com/Azealtech" target="_blank"><img src="https://img.shields.io/badge/IG-%40Azealtech-red?style=for-the-badge&logo=instagram"></a>
+  
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zack-sys/Zack-sys/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
