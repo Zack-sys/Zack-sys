@@ -1,6 +1,6 @@
 <!-- Github README -->
 <p align="center"><a href="https://github.com/Zack-sys">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zack-sys&show_icons=true&include_all_commits=17.0k&theme=react&cache_seconds=3200&hide_border=true" /></a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zack-sys&show_icons=true&include_all_commits=false&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
 <h3><b><i> Hello I am Azeal Tech👋 </i></b></h3>
 
