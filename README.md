@@ -21,5 +21,5 @@
 <p align="left">
   <a href="https://github.com/Zack-sys" target="_blank"><img src="https://img.shields.io/badge/Github-Zack--sys-green?style=for-the-badge&logo=github"></a>
   <a href="https://www.instagram.com/Azealtech" target="_blank"><img src="https://img.shields.io/badge/IG-%40Azealtech-red?style=for-the-badge&logo=instagram"></a>
-  
+    <a href="https://m.facebook.com/azeal.zyreal" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-Azeal%20Zack-red?style=for-the-badge&logo=facebook"></a>
 
