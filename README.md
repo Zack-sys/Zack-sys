@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently working on termux
 - 🌱 I’m currently learning github
-- 👯 I’m looking to collaborate on youtube
-- 🤔 I’m looking for help with VelocityX documentation
+- 👯 I’m looking to collaborate on python
+- 🤔 I’m looking for help with Google and YouTube
 - 💬 Ask me about script hacking commands in termux
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am just a high school student
