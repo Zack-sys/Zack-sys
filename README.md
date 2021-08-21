@@ -5,7 +5,7 @@
 <h3><b><i> Hello I am Azeal Tech👋 </i></b></h3>
 
 - 🔭 I’m currently working on termux
-- 🌱 I’m currently learning github
+- 🌱 I’m currently learning html
 - 👯 I’m looking to collaborate on python
 - 🤔 I’m looking for help with Google and YouTube
 - 💬 Ask me about script hacking commands in termux
